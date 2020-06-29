@@ -1,0 +1,23 @@
+{
+  "name": "game_of_life",
+  "version": "1.0.0",
+  "description": "------------------------------------------------------------------------------------------------------------  __UNIT TESTs__ ###Unit Test x Conway's Game of Life",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undeadgrishnackh/Conway-s_Game_of_Life.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undeadgrishnackh/Conway-s_Game_of_Life/issues"
+  },
+  "homepage": "https://github.com/undeadgrishnackh/Conway-s_Game_of_Life#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
