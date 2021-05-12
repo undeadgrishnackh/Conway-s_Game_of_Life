@@ -1,5 +1,8 @@
 Simple game of life Kata developed in a double loop way. BDD --> TDD.
 ------------------------------------------------------------------------------------------------------------
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3eb1fd365bd34c02850cbfeff3100d0d)](https://app.codacy.com/manual/undeadgrishnackh/Conway-s_Game_of_Life?utm_source=github.com&utm_medium=referral&utm_content=undeadgrishnackh/Conway-s_Game_of_Life&utm_campaign=Badge_Grade_Settings)
+
 # __E2E Game scenarious TESTs__
 
 ## 1) Empty universe
