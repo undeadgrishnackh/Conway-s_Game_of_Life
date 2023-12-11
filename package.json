@@ -18,6 +18,6 @@
   "homepage": "https://github.com/undeadgrishnackh/Conway-s_Game_of_Life#readme",
   "devDependencies": {
     "chai": "^4.3.10",
-    "mocha": "^8.4.0"
+    "mocha": "^10.2.0"
   }
 }
